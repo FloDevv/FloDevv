@@ -9,7 +9,7 @@
 
 ## 🔭 Currently Working On
 
-[![MangaRead](https://img.shields.io/static/v1?message=MangaRead&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FlorianDevv/MangaRead)
+[![MangaRead](https://img.shields.io/static/v1?message=MangaRead&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FloDevv/MangaRead)
 
 (Big update coming soon, no commits until I'm satisfied)
 
@@ -52,11 +52,11 @@
 
 ## 📊 GitHub Stats
 
-![FlorianDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianDevv&show_icons=true&theme=radical)
+![FloDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloDevv&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianDevv&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloDevv&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
